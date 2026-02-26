@@ -16,18 +16,14 @@ This app creates personalized travel itineraries based on your destination, trip
 ---
 
 ## 📂 Project Structure
+ Genai_travel_project/
+- GENAI/
+  - travel.py
+  - requirements.txt
+  - .streamlit/
+- Documentation/
+- README.md
 
-Genai_travel_project/
-│
-├── GENAI/
-│   ├── travel.py              # Main Streamlit app
-│   ├── requirements.txt       # Dependencies
-│   └── .streamlit/            # Streamlit config
-│
-├── Documentation/             # Word/PDF files for ideation, design, etc.
-└── README.md                  # Project overview
-
----
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
